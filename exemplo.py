@@ -10,3 +10,5 @@ peso= input ('Qual é seu peso')
 
 print(nome,idade,peso )
 
+
+
