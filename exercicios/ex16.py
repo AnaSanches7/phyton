@@ -1,3 +1,5 @@
+texto = "   exemplo de texto   "
 
-temperatura = float (input('informe a temperatura em °C:'))
-print ( 'a temperatura de {:.2f}°C corresponde a {:.2f} °f'.format(temperatura,(temperatura*9/5) + 32))
+print(texto.strip())
+print(texto.lstrip())
+print(texto.rstrip())
